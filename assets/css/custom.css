@@ -7,7 +7,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
-  background-color:#eff6ff;
+  background-image: url("../images/natural_paper.png");
 }
 footer {
   position: absolute;
