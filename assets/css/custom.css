@@ -35,6 +35,34 @@ body > .container {
   padding-left: 15px;
 }
 
-code {
-  font-size: 80%;
+.thumbnail{
+	margin-right:20px;
+}
+
+
+#left-content, #connect{
+	background-color:#fff;
+	border: 1px solid #dddddd;
+	padding-bottom: 30px;
+	border-radius:3px;
+	padding: 0px 30px 30px 20px;
+	margin:20px 0px 20px 0px;
+}
+
+#connect a img{
+	width:65px;
+	height:65px;
+}
+
+#connect > a:nth-child(4) > img{
+	padding:3px;
+}
+
+.gallery {
+	max-height:600px;
+	overflow-y:auto;
+}
+
+.gallery img{
+	margin:0px 20px 20px 0px;
 }
